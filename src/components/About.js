@@ -14,8 +14,8 @@ const About = props => (
       This is essentially a simple applciation that turns a human into a "MIDI"!
     </p>
     <h2>Documentation</h2>
-    <p>You can check out the git repo here <a href="#"></a> and see some of the documentation of the 
-    development process here <a href="#"></a></p>
+    <p>You can check out the git repo <a href="https://github.com/mailaw/human-music-site">here</a> and see some of the documentation of the 
+    development process <a href="https://docs.google.com/document/d/1CMGYDp18SFRHS9bfEy68mz3mcQBrm9fMskt1JpT7NMQ/edit?usp=sharing">here </a></p>
   </div>
   </div>
 )
