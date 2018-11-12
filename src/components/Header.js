@@ -39,6 +39,11 @@ const Header = props => (
         </li>
       </ul>
     </nav>
+    <img src="https://fuzzywobble.com/images/sin_03.gif" width="42%"/>
+    <img src="https://fuzzywobble.com/images/sin_03.gif" width="42%"/>
+    <img src="https://fuzzywobble.com/images/sin_03.gif" width="42%"/>
+
+
   </header>
 )
 
